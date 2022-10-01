@@ -1,0 +1,1 @@
+Para que este código funcione corretamente é necessário que faça download da pasta videosImagens que está no link XZ
